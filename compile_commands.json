@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/a-user0/projects/cpp/debugger_linux/includes",
+      "-std=gnu++20",
+      "-c",
+      "-o",
+      "CMakeFiles/dbg.dir/src/debugger.cc.o",
+      "/home/a-user0/projects/cpp/debugger_linux/src/debugger.cc"
+    ],
+    "directory": "/home/a-user0/projects/cpp/debugger_linux",
+    "file": "/home/a-user0/projects/cpp/debugger_linux/src/debugger.cc",
+    "output": "/home/a-user0/projects/cpp/debugger_linux/CMakeFiles/dbg.dir/src/debugger.cc.o"
+  }
+]
